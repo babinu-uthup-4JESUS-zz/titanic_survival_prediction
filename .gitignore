@@ -102,3 +102,6 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+kaggle_out_ensemble_xgboost_rft_logreg.csv
+kaggle_out_logistic_regression.csv
+kaggle_out_random_forest.csv
