@@ -33,11 +33,25 @@ https://conda.io/docs/user-guide/tasks/manage-pkgs.html#installing-packages
 ```
 
 ## Running the scripts
- 
+  
 Since the code is organized as jupyter notebooks, every individual notebook can be run separately (instructions on running a jupyter python notebook can be seen [here](http://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/execute.html).
 
+I am listing specific guidelines for each of subfolders here :
+
+### Folder : first_attempts
+
+Three models have been built and their corresponding notebooks are <MODEL METHOD>_models.ipynb (for example random_forest_models.ipynb).
+ 
+These notebooks can be run separately and have their output files generated as kaggle_out_<MODEL METHOD>.csv
 
 NOTE: The notebook ensemble_xgboost_rft_logreg_models.ipynb requires the output csv files(prefixed with kaggle_out) be generated for randomforest, logistic regression and xgboost models (by running random_forest_models.ipynb, logistic_regression_models.ipynb and xgboost_models.ipynb notebooks respectively).
+
+### Folder : learn_from_aashita
+
+In this folder we attempted to incorporate some xgboost ideas inspired by the following [kernel](https://www.kaggle.com/aashita/xgboost-model-with-minimalistic-features). 
+
+exploratory_data_analysis.ipynb : Explored data analysis using seaborn package.
+
 
 ## Acknowledgments
 
