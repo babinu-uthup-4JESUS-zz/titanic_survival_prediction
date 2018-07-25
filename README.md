@@ -51,7 +51,9 @@ NOTE: The notebook ensemble_xgboost_rft_logreg_models.ipynb requires the output 
 In this folder we attempted to incorporate some xgboost ideas inspired by the following [kernel](https://www.kaggle.com/aashita/xgboost-model-with-minimalistic-features). 
 
 exploratory_data_analysis.ipynb : Explored data analysis using seaborn package.
+
 xgboost_aashita_idea.ipynb : Xgboost model inspired by the following [kernel](https://www.kaggle.com/aashita/xgboost-model-with-minimalistic-features). 
+
 xgboost_my_attempt_detailed_fine_tuning.ipynb : My attempt on creating an xgboost model step by step, with detailed fine tuning applied at each step.
 
 In both cases, output csv files generated are named kaggle_out_<SCRIPT NAME>.csv (NOTE : The script generates some other csv files as well).
