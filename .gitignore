@@ -119,3 +119,8 @@ learn_from_oscar/kaggle_out_names_naive_bayes.csv
 learn_from_oscar/kaggle_out_names_svc.csv
 learn_from_oscar/kaggle_out_tickets_svc.csv
 learn_from_oscar/kaggle_out_xgboost_sex_pclass_embarked.csv
+first_attempts/kaggle_out_xgboost.csv
+first_attempts/kaggle_out_xgboost.csv
+learn_from_aashita/kaggle_out_xgboost_parch_sibsp_fare.csv
+learn_from_oscar/kaggle_out_xgboost_parch_sibsp_embarked.csv
+*.csv
